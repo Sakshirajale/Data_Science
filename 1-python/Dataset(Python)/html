@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Educational Details</h2>
+    <table border ="1">
+    
+        <br>
+        <thead>
+        <tr><th Colspan ="3"> DATA</th></tr>
+        
+           <tr>
+            <th>SR.NO</th>
+            <th>Year</th>
+            <th>Score</th>
+        </tr>
+             
+        </thead>
+        <tr>
+            <td>1.</td>
+            <td>F.Y</td>
+            <td>8.5</td>
+        </tr>
+        <tr>
+            <td>2.</td>
+            <td>S.Y</td>
+            <td>9.0</td>
+        </tr>
+        <tr>
+            <td>3.</td>
+            <td>T.Y</td>
+            <td>9.5</td>
+        </tr>
+    </table>
+
+    <h3> School</h3>
+    <div>
+        Name of School: Mula Public School, Sonai
+        <br>
+        Class: 1-10
+        <br>
+        Grade: A+
+    </div>
+
+    <h3>Jr.College</h3>
+    <div>
+        Name of College: Shri Shaneshwar Jr.Clg, Sonai <br>
+       Class: 11-12<br>
+       Grade: A<br>
+       Year:2022-2026  <br>
+    </div>
+    <h3>Sr.College</h3>
+    <div>
+      Name of College: Sanjivani College Of Engineering, Kopargaon<br>
+      Class: F.Y - L.Y<br>
+      Year:2022-2026<br>   
+    </div><br>
+    
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<body>
+    <img src = "myimage.jpg" height ="150px"  align="right" />
+
+    <h1>MY Portfolio</h1>
+      <br>
+      <a href="h2.html" target ="-main">INTRO</a>
+      <br><br>
+     <a href="h1.html" target ="-main">EDUCATION DETAILS</a>
+     <br> <br>
+     <a href ="h3.html" target ="-main">ACHIVEMENTS</a>
+     <br><br>
+</body>
+</html>
